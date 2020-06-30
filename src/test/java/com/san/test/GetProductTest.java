@@ -17,7 +17,7 @@ import static org.hamcrest.Matchers.equalTo;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.lessThan;
 
-public class GetProduct {
+public class GetProductTest {
 
     RequestSpecBuilder requestSpecBuilder;
     static RequestSpecification requestSpecification;
